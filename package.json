@@ -1,0 +1,15 @@
+{
+  "name": "laba5",
+  "version": "1.0.0",
+  "description": "gg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Boravik Kirill",
+  "license": "ISC"
+}
